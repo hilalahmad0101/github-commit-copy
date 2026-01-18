@@ -1,0 +1,13 @@
+#gh-copy-commit-btn {
+    margin-left: 12px;
+    padding: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid #d0d7de;
+    background: #f6f8fa;
+}
+
+#gh-copy-commit-btn:hover {
+    background: #eaeef2;
+}
